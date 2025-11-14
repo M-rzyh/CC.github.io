@@ -37,3 +37,6 @@ You may be assigned access to:
 - Niagara
 
 You don’t need to choose manually.
+
+For detailed official instructions, refer to the Alliance “Getting Started” page:  
+https://docs.alliancecan.ca/wiki/Getting_started
